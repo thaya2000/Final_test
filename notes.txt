@@ -1,0 +1,9 @@
+entityframeworkcore
+entityframeworkcore.sqlite
+entityframeworkcore.tools
+entityframeworkcore.design
+
+
+//Tools -- Nuget package manager -- package manger console
+Add-Migration intial
+update-Database
